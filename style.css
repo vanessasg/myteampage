@@ -163,9 +163,14 @@ a {
       position: relative;
       top: 0;
   }
+  .item3{
+      position: relative;
+      left: 40px
+  }
   .item5 {
       position: relative;
       top: 70px;
+      left:30px;
   }
 
 }
